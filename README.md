@@ -27,3 +27,6 @@ Writing to Files: The program will use BufferedWriter to write text to a file. T
 Reading Files: The program will utilize Files.readAllLines from the java.nio.file package to read the contents of a file into a list of strings. This method is straightforward and allows for easy iteration over the lines of the file. The contents will be printed to the console for user visibility.
 
 Modifying Files: The modification method will read the file's contents, search for a specified target string, and replace it with a new string. The modified content will then be written back to the file. This method will ensure that the original structure of the file is preserved while making the necessary changes.
+**OUTPUT**
+
+https://github.com/sheshank-hub/-FILE-HANDLING-UTILITY/issues/1#issue-3202804679
